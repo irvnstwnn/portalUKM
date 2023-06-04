@@ -1,0 +1,40 @@
+body {
+  overflow-x: hidden;
+}
+
+.containers {
+    margin-top: 10px;
+    background-image: url('../image/waduhh.png');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.navigasi {
+    background: #fafafa;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .color-kuning {
+    color: #ffbd1f !important;
+  }
+  .color-kuning:hover {
+    font-weight: bold;
+  }
+  .menu a:hover {
+    color: #ffb300 !important;
+    font-weight: bold;
+  }
+
+  
+  footer {
+    position: absolute;
+    background-color: #ffbd1f;
+    text-align: right;
+    font-family: "poppins";
+    font-size: 24px;
+    width: 100%;
+  }
+  
+  
+  

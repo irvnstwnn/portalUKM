@@ -1,0 +1,74 @@
+.navigasi {
+  background: #fafafa;
+  font-family: "Poppins", sans-serif;
+}
+
+.color-kuning {
+  color: #ffbd1f !important;
+}
+.color-kuning:hover {
+  font-weight: bold;
+}
+.menu a:hover {
+  color: #ffb300 !important;
+  font-weight: bold;
+}
+input[type="search"] {
+  width: 490px;
+  font-family: "Poppins";
+  font-size: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.9);
+  border-radius: 18px;
+}
+.lup {
+  background-color: #f1f1f1;
+  border: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.lup:hover {
+  background-color: #ddd;
+}
+footer {
+  position: absolute;
+  background-color: #ffbd1f;
+  text-align: right;
+  font-family: "poppins";
+  font-size: 24px;
+  width: 100%;
+}
+
+.form-daftar {
+  max-width: 800px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 50px;
+}
+.form-daftar form {
+  padding: 0 50px;
+}
+.tombol-daftar {
+  padding: 10px 60px !important;
+  background-color: #ffbd1f;
+  box-shadow: #ddd;
+  color: white;
+  border-radius: 15px;
+}
+.tombol-daftar:hover {
+  box-shadow: #ddd;
+  background-color: rgb(236, 146, 35);
+}
+.pw {
+  padding: 100px 0;
+  background-color: #efefef;
+}
+a,
+a:hover {
+  color: #333;
+}
+
+.btwn {
+  display: flexbox;
+  justify-content: space-between;
+}
